@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-03-28T06:51:10.148Z" agent="5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/98.0.4758.102 Safari/537.36" etag="MlLYhaGMsHbH69MEW0Gb" version="17.1.2" type="github">
+<mxfile host="app.diagrams.net" modified="2022-03-28T07:32:01.961Z" agent="5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/98.0.4758.102 Safari/537.36" etag="IFeBYhW3LgfbUx4TsIjm" version="17.1.2" type="github">
   <diagram id="DZgxZvmLrZTOhhlUp9DQ" name="Page-1">
     <mxGraphModel dx="1635" dy="2036" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -132,8 +132,8 @@
         <mxCell id="lT_rciikWXpVZR0L5w_a-53" style="edgeStyle=orthogonalEdgeStyle;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0;exitDx=175;exitDy=245;exitPerimeter=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="1" source="lT_rciikWXpVZR0L5w_a-37" target="lT_rciikWXpVZR0L5w_a-51" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="lT_rciikWXpVZR0L5w_a-37" value="Meet clan leader. Ruben SilkBeard&lt;br&gt;&lt;br&gt;Well, now you&#39;re here, we do actually need some heros/fighters for a job.&lt;br&gt;&lt;br&gt;Story of what really happened in that battle&lt;br&gt;&lt;br&gt;Years ago, a Witch (not Wizard) heard that they were mining gold here, and decided she wanted to take over. Massive battle between the witch and the dwarf clan. Clan won (barely) but didn&#39;t kill her. Managed to bury her/her 2ic in a tunnel cave in, then tunnel was sealed. They can still hear noises on the other side.... and it sounds like they are almost through the tunnel seal" style="shape=callout;whiteSpace=wrap;html=1;perimeter=calloutPerimeter;" parent="1" vertex="1">
-          <mxGeometry x="1160" y="115" width="350" height="245" as="geometry" />
+        <mxCell id="lT_rciikWXpVZR0L5w_a-37" value="Meet clan leader. Ruben SilkBeard&lt;br&gt;&lt;br&gt;Well, now you&#39;re here, we do actually need some heros/fighters for a job.&lt;br&gt;&lt;br&gt;Story of what really happened in that battle&lt;br&gt;&lt;br&gt;Years ago, a Witch (not Wizard) heard that they were mining gold here, and decided she wanted to take over. Massive battle between the witch and the dwarf clan. Clan won (barely) but didn&#39;t kill her&lt;br&gt;&lt;br&gt;She got away,&amp;nbsp; Managed to bury her demon in a tunnel cave in, then tunnel was sealed. They can still hear noises on the other side....&amp;nbsp;&lt;br&gt;&lt;br&gt;There&#39;s a lot of untapped gold in that cave - pay you handsomely to free it" style="shape=callout;whiteSpace=wrap;html=1;perimeter=calloutPerimeter;" parent="1" vertex="1">
+          <mxGeometry x="1090" y="100" width="520" height="245" as="geometry" />
         </mxCell>
         <mxCell id="lT_rciikWXpVZR0L5w_a-39" style="edgeStyle=orthogonalEdgeStyle;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" parent="1" source="lT_rciikWXpVZR0L5w_a-38" target="lT_rciikWXpVZR0L5w_a-22" edge="1">
           <mxGeometry relative="1" as="geometry" />
@@ -199,7 +199,7 @@
           <mxGeometry x="1241" y="700" width="249" height="110" as="geometry" />
         </mxCell>
         <mxCell id="25u9K3X81Mbi-f4htGCc-7" value="Sun staying with the people of SaltMarsh as the fates have told her they need spiritual healing" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="50" y="540" width="200" height="125" as="geometry" />
+          <mxGeometry x="214" y="320" width="200" height="125" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
